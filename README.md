@@ -8,15 +8,15 @@ This tool for beginner and help those people they gather information about Email
 ## Programming Languages
 1. Python 3
 
-## How to run 
+## How to set-up and run
   > ### Windows
+  > - pip install -r requirements.txt
   > - cd Information_gathering
-  >
   > - python main.py
   >
   > ### Linux 
   > -  cd Information_gathering
-  >
+  > - pip3 install -r requirements.txt
   > - python3 main.py
 
 
