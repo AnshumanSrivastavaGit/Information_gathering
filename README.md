@@ -10,12 +10,12 @@ This tool for beginner and help those people they gather information about Email
 
 ## How to set-up and run
   > ### Windows
-  > - pip install -r requirements.txt
   > - cd Information_gathering
+  > - pip install -r requirements.txt
   > - python main.py
   >
   > ### Linux 
-  > -  cd Information_gathering
+  > - cd Information_gathering
   > - pip3 install -r requirements.txt
   > - python3 main.py
 
